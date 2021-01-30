@@ -2,7 +2,7 @@
   mode: 'production',
   resolve: {
     modules: [
-      '/home/dmozze/Desktop/url-shortener-demo/build/js/packages/system-design-course-client/kotlin-dce',
+      '/home/ubuntu/Kotlin-twitter-app/build/js/packages/system-design-course-client/kotlin-dce',
       'node_modules'
     ]
   },
@@ -30,11 +30,11 @@
   },
   entry: {
     main: [
-      '/home/dmozze/Desktop/url-shortener-demo/build/js/packages/system-design-course-client/kotlin-dce/system-design-course-client.js'
+      '/home/ubuntu/Kotlin-twitter-app/build/js/packages/system-design-course-client/kotlin-dce/system-design-course-client.js'
     ]
   },
   output: {
-    path: '/home/dmozze/Desktop/url-shortener-demo/client/build/distributions',
+    path: '/home/ubuntu/Kotlin-twitter-app/client/build/distributions',
     filename: [Function: filename],
     library: 'client',
     libraryTarget: 'umd'

@@ -79,7 +79,7 @@ CREATE TABLE IF NOT EXISTS login (
 
     fun setTriple(login : String, id : Int, key : Int) : Int {
         val stmt: Statement = connection.createStatement()
-        val rs: ResultSet = stmt.executeQuery("SELECT key FROM $TABLE_LOGIN WHERE login=\"$login\"")
+        val rs: ResultSet = stmt.executeQuery("SELECT * FROM $TABLE_LOGIN WHERE login=\"$login\"")
         while (rs.next()) {
             return 1;
         }

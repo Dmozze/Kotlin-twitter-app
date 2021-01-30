@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/system-design-course-client"
+  ],
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": [],
+  "name": "system-design-course",
+  "version": "0.1.1"
+}

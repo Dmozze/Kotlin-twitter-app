@@ -4,6 +4,7 @@ import io.ktor.http.*
 import io.ktor.http.content.*
 import io.ktor.request.*
 import io.ktor.response.*
+import kotlin.math.*
 import io.ktor.routing.*
 import kotlinx.html.*
 import java.io.File
@@ -138,8 +139,8 @@ fun Application.main() {
         post("/registration") {
             val login : String = call.receiveText();
             println("registration $login")
-            val id = random.nextInt();
-            val key = random.nextInt();
+            val id = random.nextInt().absoluteValue;
+            val key = random.nextInt().absoluteValue;
             if (db.setTriple(login, id, key) == 0){
                     call.respondText { "$key" }
             } else {
@@ -154,7 +155,7 @@ fun Application.main() {
             val id : Int? = db.getIdFromKey(key);
             if (id != null){
                 db.addMessage(id, message);
-                call.respondRedirect("http://0.0.0.0:8080/blog?id=$id")
+                call.respondRedirect("0.0.0.0:8080/blog?id=$id")
             }
             call.respond(HttpStatusCode.BadRequest, "invalid key")
         }

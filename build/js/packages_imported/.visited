@@ -1,0 +1,30 @@
+{
+  "version": "9",
+  "items": {
+    "4282bba94ea0c80a871d6ae175e01da6": {
+      "src": "/home/ubuntu/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-js/1.4.0/5cd22fd44ab0566a25846e7cb28bde006959bd39/kotlin-stdlib-js-1.4.0.jar",
+      "target": "kotlin/1.4.0"
+    },
+    "79c9c4c89ae968495076cd0d557d7390": {
+      "src": "/home/ubuntu/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.4.0/1c752cce0ead8d504ccc88a4fed6471fd83ab0dd/kotlin-stdlib-common-1.4.0.jar"
+    },
+    "97d71e7777d60ce52b440d742431cb6f": {
+      "src": "/home/ubuntu/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-html-js/0.7.2/baf7e494e549776d0ae3e0ee225804a513f5dc26/kotlinx-html-jslegacy-0.7.2.jar",
+      "target": "kotlinx-html-js/0.7.2"
+    },
+    "e9e9cc5d29917e56e6d6411ee412a67c": {
+      "src": "/home/ubuntu/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-js-runner/1.4.0/d7daeb8bc2a9cc872284d1aba70e19950cf0ecae/kotlin-test-js-runner-1.4.0.jar",
+      "target": "kotlin-test-js-runner/1.4.0"
+    },
+    "295029136c1eab0864b30b773d2895c3": {
+      "src": "/home/ubuntu/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-js/1.4.0/a67ff9e5a85a473f0ef73470104c55397afc4e1e/kotlin-test-js-1.4.0.jar",
+      "target": "kotlin-test/1.4.0"
+    },
+    "c5c26fb58e1d50a91c3f0e53b749a36a": {
+      "src": "/home/ubuntu/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-common/1.4.0/2e8e012c03992fcf1c1b3bf356e6e31ecceb1888/kotlin-test-common-1.4.0.jar"
+    },
+    "8faaa21d65534c15892f612e6f1080d5": {
+      "src": "/home/ubuntu/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-annotations-common/1.4.0/a0ad1ebaffce72b7fd0b04a8845079537cfecb3/kotlin-test-annotations-common-1.4.0.jar"
+    }
+  }
+}

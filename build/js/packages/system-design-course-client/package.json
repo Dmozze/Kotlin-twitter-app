@@ -1,0 +1,20 @@
+{
+  "main": "kotlin/system-design-course-client.js",
+  "devDependencies": {
+    "webpack": "4.42.1",
+    "webpack-cli": "3.3.11",
+    "source-map-loader": "1.0.0",
+    "dukat": "0.5.7"
+  },
+  "dependencies": {
+    "kotlin": "file:/home/ubuntu/Kotlin-twitter-app/build/js/packages_imported/kotlin/1.4.0",
+    "kotlinx-html-js": "file:/home/ubuntu/Kotlin-twitter-app/build/js/packages_imported/kotlinx-html-js/0.7.2",
+    "kotlin-test-js-runner": "file:/home/ubuntu/Kotlin-twitter-app/build/js/packages_imported/kotlin-test-js-runner/1.4.0",
+    "kotlin-test": "file:/home/ubuntu/Kotlin-twitter-app/build/js/packages_imported/kotlin-test/1.4.0"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": [],
+  "name": "system-design-course-client",
+  "version": "0.1.1"
+}

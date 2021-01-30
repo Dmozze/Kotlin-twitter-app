@@ -1,0 +1,1 @@
+// Kotlin.kotlin_module_metadata(393729, "system-design-course-client", "H4sIAAAAAAAAAGPgYBGq5zLmEkrNS85PSQ0N8nTOzy3Iz0vNK+Fiy84vycnM42ILLinKzEvnYizmYslNBAqwhOZllgiJcDEJMHKxcTAIMEkwgGlWCQYpXSkRAQYpJgNGIzYBZhDt0aawg4NBilOABchjAjJncPyHAcZJHExcDFJQiwBwPsXrjAAAAA==");
