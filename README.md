@@ -1,6 +1,3 @@
-# Url shortener Demo
-
-Based on Kotless Example (https://github.com/JetBrains/kotless/tree/master/examples/ktor/shortener)
-
+Kotlin + ktor + pure JS/HTML/CSS + SQLite. Simple full-stack pet-project with auth + post messages + read on direct link other "walls" of messages.
 
 Run: `./gradlew :server:run`
